@@ -1,4 +1,4 @@
-Customer Support AI demo. Will be iterated and implemented distinctly for niche qualities and specific user experience
+Basic OpenAI API App, visit my-ai-app for a proper iteration
 
 ## Getting Started
 
