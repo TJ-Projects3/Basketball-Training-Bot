@@ -1,4 +1,4 @@
-Basic OpenAI API App, visit my-ai-app for a proper iteration
+AI Chatbot that is prompted to take specific ideas from my favorite local trainers (who have data on the internet) in order to create an artificial intelligence app that trains basketball players in a unique way with insightful responses and modern training philosophy. This app will be iterated in the future.
 
 ## Getting Started
 
