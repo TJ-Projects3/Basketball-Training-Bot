@@ -1,4 +1,4 @@
-AI Chatbot that is prompted to take specific ideas from my favorite local trainers (who have data on the internet) in order to create an artificial intelligence app that trains basketball players in a unique way with insightful responses and modern training philosophy. This app will be iterated in the future.
+AI Chatbot that is prompted to take specific ideas from my favorite local trainers in order to create an artificial intelligence app that trains basketball players in a unique, effective way untradditional to usual ChatGPT responses and more insights into modern training philosophy. This app will be iterated in the future.
 
 ## Getting Started
 
